@@ -1,6 +1,10 @@
 ---
 layout: resume
 ---
+
+TBA
+
+<!--
 ## Currently
 
 Current Position Description
@@ -13,16 +17,18 @@ Degree Awarded
 
 `1995 - 1997`
 __University Name__
-Degree Awarded 
+Degree Awarded
 
 ## Awards
 
 `2012`
-Name of Award, Organization 
+Name of Award, Organization
 
 ## Publications
+-->
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!--
 
 ### Journals
 
@@ -50,21 +56,19 @@ Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Li
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Current Job Title__, Current Employer
 
 - Task
 - Task
 
 `1994-1996`
-__Current Job Title__, Current Employer 
+__Current Job Title__, Current Employer
 
 - Task
 - Task
-
+-->
 
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
