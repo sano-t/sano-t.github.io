@@ -13,6 +13,7 @@ excerpt: "About Me..."
 
 居室: 3316室  
 オフィスアワー: 木曜午後(これ以外の時間はメール問い合わせ)
+e-mail: takashi.sano@iniad.org
 
 ## 研究内容、興味のあること:
 
