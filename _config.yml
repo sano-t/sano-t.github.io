@@ -8,8 +8,8 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Takashi Sano
   avatar: bio-photo.jpg
-  bio: "Assistant professor, Seikei University"
-  email: tsano@st.seikei.ac.jp #emailaddress
+  bio: "Lecturer, INIAD, Toyo University"
+  email: takashi.sano@iniad.org #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
